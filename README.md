@@ -2,10 +2,10 @@
 
 ## 1.使用している主な技術
 ```
--PHP
-+JavaScript
--CSS
--MySQL 
+・PHP
+・JavaScript
+・CSS
+・MySQL 
 ```
 ## 2.プロジェクトの概要
 
